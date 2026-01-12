@@ -188,4 +188,4 @@ if __name__ == "__main__":
     
     plt.show()
    
-    print(f"Max Mass found: {max(masses):.4f} M_sun")
+    print(f"Max Mass found: {max(masses_grav):.4f} M_sun")
